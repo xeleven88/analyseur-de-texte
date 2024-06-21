@@ -10,7 +10,7 @@ Un analyseur de texte en Python pour analyser les mots, caractères et phrases.
 
 ## Comment l'utiliser
 
-1. Clonez le dépôt : `git clone https://github.com/votre_nom_utilisateur/analyseur-de-texte.git`
+1. Clonez le dépôt : `git clone https://github.com/xeleven88/analyseur-de-texte.git`
 2. Naviguez dans le répertoire : `cd analyseur-de-texte`
 3. Exécutez le script : `python analyseur_de_texte.py`
 
